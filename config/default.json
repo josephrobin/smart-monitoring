@@ -1,0 +1,33 @@
+{
+    "rphv": {
+        "unit" : "voltage",
+        "phase" : "r-phase",
+        "source": "transformer1"
+    },
+    "yphv": {
+        "unit" : "voltage",
+        "phase" : "y-phase",
+        "source": "transformer1"
+    },
+    "bphv": {
+        "unit" : "voltage",
+        "phase" : "b-phase",
+        "source": "transformer1"
+    },
+    "rpha": {
+        "unit" : "current",
+        "phase" : "r-phase",
+        "source": "transformer1"
+    },
+    "ypha": {
+        "unit" : "current",
+        "phase" : "y-phase",
+        "source": "transformer1"
+    },
+    "bpha": {
+        "unit" : "current",
+        "phase" : "b-phase",
+        "source": "transformer1"
+    }
+        
+}
